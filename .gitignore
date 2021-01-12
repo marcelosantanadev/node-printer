@@ -3,7 +3,6 @@ build/*
 .settings
 .c9*
 node_modules/*
-*.node
 *.swp
 *.log
 package-lock.json
